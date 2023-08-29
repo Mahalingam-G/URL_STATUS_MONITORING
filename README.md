@@ -18,6 +18,6 @@ SAP BO URL status monitoring
 
 <img src="URL_Status.jpg" alt="URL_Status"/>
 
-<img src="https://github.com/Mahalingam-G/URL_STATUS_MONITORING/blob/Status_Mail.jpg" alt="Status_Mail"/>
+<img src="Status_Mail.jpg" alt="Status_Mail"/>
 
 At present, we can receive all environment status (up or down) in an email.
