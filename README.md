@@ -16,8 +16,8 @@ URL status monitoring
   In this URL monitoring task runs every 2 minutes once and generates a mail notification only when the environment is down.
 <hr>
 
-<img src="[URL_Status.jpg](https://github.com/Mahalingam-G/URL_STATUS_MONITORING/blob/main/URL_Status.jpg)" alt="URL_Status"/>
+<img src="https://github.com/Mahalingam-G/URL_STATUS_MONITORING/blob/main/URL_Status.jpg" alt="URL_Status"/>
 
-<img src="Status_Mail.jpg" alt="Status_Mail"/>
+<img src="https://github.com/Mahalingam-G/URL_STATUS_MONITORING/blob/main/Status_Mail.jpg" alt="Status_Mail"/>
 
 At present, we can receive all environment status (up or down) in an email.
