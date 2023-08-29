@@ -1,7 +1,7 @@
 # URL_STATUS_MONITORING
 URL status monitoring
 
-<b>** SAP BO URL status monitoring **<b>
+<b>** URL status monitoring **<b>
 * Problem overview:
   An individual needs to check the 30+ URL’s status of the environment every ten minutes.
   If any URL is down, it will significantly affect the business users.
@@ -16,7 +16,7 @@ URL status monitoring
   In this URL monitoring task runs every 2 minutes once and generates a mail notification only when the environment is down.
 <hr>
 
-<img src="URL_Status.jpg" alt="URL_Status"/>
+<img src="[URL_Status.jpg](https://github.com/Mahalingam-G/URL_STATUS_MONITORING/blob/main/URL_Status.jpg)" alt="URL_Status"/>
 
 <img src="Status_Mail.jpg" alt="Status_Mail"/>
 
